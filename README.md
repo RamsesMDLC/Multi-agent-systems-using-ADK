@@ -1,6 +1,5 @@
 🚀 Multi-Agent Systems & Workflow Patterns (Google ADK)
 
-Welcome to Multi-Agent Systems & Workflow Patterns, a hands-on project based on the Kaggle 5-Day Agents Course.
 This repository demonstrates how to design, build, and orchestrate multi-agent systems using Google’s Agent Development Kit (ADK) and Gemini models.
 
 Instead of relying on a single “do-everything” agent, this project shows how to create teams of specialized agents that collaborate through well-defined workflows—just like real software teams.
@@ -111,21 +110,9 @@ GOOGLE_API_KEY
 
 Ensure the secret is enabled for the notebook
 
-⚠️ Usage Notes
-
 ❌ Avoid “Run all cells” to prevent hitting API rate limits (429 errors)
 
 ▶️ Run cells one at a time, top to bottom
-
-📚 Learning Resources
-
-Google Agent Development Kit (ADK) Documentation
-
-Gemini API Documentation
-
-Kaggle Notebooks Guide
-
-Kaggle Discord 
 
 🎯 Key Takeaways
 
